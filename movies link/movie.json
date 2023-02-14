@@ -1,4 +1,17 @@
 [ {
+    "name": "Farzi",
+    "imdb": 4.7,
+    "date": "2023",
+    "sposter": "https://assets.gadgets360cdn.com/pricee/assets/product/202302/06farzi1_1_1676013701.jpg",
+    "bposter": "https://bingeddata.s3.amazonaws.com/uploads/2023/02/Farzi-Series-Review.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "Farzi.html",
+    "trailer": "",
+    "low": "",
+    "medium": "https://drive.google.com/file/d/1ThinOLjc3otn702_xOCEwX9zvBdtNDHA/view?usp=share_link",
+    "high": ""
+},{
     "name": "pathaan",
     "imdb": 6.9,
     "date": "2023",
