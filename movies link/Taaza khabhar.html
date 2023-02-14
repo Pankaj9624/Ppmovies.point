@@ -99,13 +99,12 @@
         fetch(json_url).then(Response => Response.json())
             .then(data =>{
                 let movie_array = data.filter(ele => {
-                    return ele.name ==="Taazakhabhar";
+                    return ele.name ==="Taaza khabhar";
          
                 });
                 document.getElementById('title').innerText = movie_array[0].name;
                 document.getElementsByTagName('video')[0].setAttribute('src', movie_array[0].trailer);
                 document.getElementsByTagName('video')[0].play();
-                document.getElementById('low_q').href = movie_array[0].low;
                 document.getElementById('medium_q').href = movie_array[0].medium;
                 document.getElementById('high_q').href = movie_array[0].high;
                 document.getElementById('gen').innerText = data[0].genre;
