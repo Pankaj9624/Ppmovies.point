@@ -62,11 +62,8 @@
                 <div class="btns">
                     <a href="#"id="play">Watch<i class="bi bi-play-fill"></i></a>
                     <a href="#" download="Deadpool 720ph"id="medium_q">720p</a>
-                    <a href="#" download="Deadpool 480ph" id="low_q" >480p</a>
-                    <a href="#" download="Deadpool 1080ph"id="high_q">1080p</a>
                     
-                   
-                </div>
+                 </div>
              </div>
              <section>
                 <h4>popular</h4>
@@ -108,9 +105,7 @@
                 document.getElementById('title').innerText = movie_array[0].name;
                 document.getElementsByTagName('video')[0].setAttribute('src', movie_array[0].trailer);
                 document.getElementsByTagName('video')[0].play();
-                document.getElementById('low_q').href = movie_array[0].low;
                 document.getElementById('medium_q').href = movie_array[0].medium;
-                document.getElementById('high_q').href = movie_array[0].high;
                 document.getElementById('gen').innerText = data[0].genre;
                 document.getElementById('date').innerText= data[0].date;
                 document.getElementById('rate').innerHTML =`<span>IMDB</span><i class="bi bi-star-fill"></i> ${data[0].imdb}`;
