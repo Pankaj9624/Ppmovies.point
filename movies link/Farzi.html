@@ -99,7 +99,7 @@
         fetch(json_url).then(Response => Response.json())
             .then(data =>{
                 let movie_array = data.filter(ele => {
-                    return ele.name ==="Deadpool";
+                    return ele.name ==="Farzi";
          
                 });
                 document.getElementById('title').innerText = movie_array[0].name;
