@@ -87,9 +87,9 @@
     "bposter": "https://static-prod.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg",
     "genre": "Action",
     "type": "movie",
-    "url": "jhon wick.html",
+    "url": "john wick.html",
     "trailer": "john wick trailer.mp4",
-    "low": "https://vclouds.sbs/kqcdb801cxmx7g0?token=9969 ",
+    "low": "https://vclouds.sbs/kqcdb801cxmx7g0",
     "medium": "https://vclouds.sbs/dcavkmaabob_rjj",
     "high": "https://vclouds.sbs/17wcv11txk1a8g7"
 }, {
@@ -100,7 +100,7 @@
     "bposter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhev6KAd6yAJapmREdDIkHQ6Vwp0y7iYl0A&usqp=CAU",
     "genre": "Action",
     "type": "movie",
-    "url": "movies link/ant man.html",
+    "url": "ant man.html",
     "trailer": "john wick trailer.mp4",
     "low": "video/ant man 480ph.mp4",
     "medium": "https://vclouds.sbs/46ygyqprxqigy74",
@@ -142,8 +142,8 @@
     "url": "kota factory.html",
     "trailer": "john wick trailer.mp4",
     "low": "#",
-    "medium": "video/kota factory 720ph.mp4",
-    "high": "https://new5.gdtot.cfd/file/1738006816"
+    "medium": "https://new5.gdtot.cfd/file/1738006816",
+    "high": ""
 }, {
     "name": "Thor Love Of Thunder",
     "imdb": 8.8,
