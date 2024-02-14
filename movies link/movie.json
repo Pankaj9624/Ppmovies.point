@@ -1,4 +1,17 @@
 [ {
+    "name": "FOR_YOU",
+    "imdb": 4.7,
+    "date": "2023",
+    "sposter": "https://drive.google.com/file/d/1j9JMTOPEzjiwaUgYAFv3S0Kkt8pKGyQt/view?usp=drive_link",
+    "bposter": "https://drive.google.com/file/d/19jZBlNI5vvNw3A-4MrNqp-Vdunt4YmJn/view?usp=drive_link",
+    "genre": "Action",
+    "type": "series",
+    "url": "FOR_YOU.html",
+    "trailer": "",
+    "low": "",
+    "medium": "https://drive.google.com/drive/folders/1W3KFS8jNOaZlq9QUXtm0Laxi-DntwFhn?usp=drive_link",
+    "high": ""
+},{
     "name": "Farzi",
     "imdb": 4.7,
     "date": "2023",
